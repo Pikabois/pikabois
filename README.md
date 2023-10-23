@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pikabois&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pikabois" /></p>
 <p>&nbsp;<img align="center" src="https://wakatime.com/badge/user/0884e877-dbd0-4b66-bdfb-5ec3d81ed80c.svg" alt="wakatimepika" /> </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pikabois&show_icons=true&theme=tokyonight" alt="pikabois" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=pikabois&show_icons=true&theme=tokyonight" alt="pikabois" /></p>
