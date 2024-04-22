@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pikabois</h1>
 <h3 align="center">A french student 🇫🇷 🥖!</h3>
 
-<p align="left"> <img src="https://profile-counter.glitch.me/pikabois/count.svg" alt="pikabois" /> </p>
+<p align="left"> <img src="https://profile-counter.glitch.me/pikabois/count.svg" alt="pikabois" /> views</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pikabois&theme=radical" alt="pikabois" /></a> </p>
 
